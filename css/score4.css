@@ -1,0 +1,16 @@
+#score4_table TD{
+    
+    width:20 em; height : 20 em;border:5px solid black; text-align: center;
+
+}
+
+TD.score_square{
+    background-color:#DDD;
+}
+
+#score4_table{
+  border-collapse: collapse;
+  
+}
+
+
